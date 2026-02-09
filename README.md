@@ -2,7 +2,7 @@ Best Beginner NLP Project Ideas (with reasoning)
 1) Sentiment Analysis on Reviews (Recommended First)
 
 Problem statement:
-“Build a model that predicts whether a review is positive, negative, or neutral.”
+“Build a model that predicts whether a review is positive, negative, or neutral.” Build a multi-class sentiment classifier that predicts the emotional category of social media posts using classical NLP techniques.
 
 Example datasets:
 
