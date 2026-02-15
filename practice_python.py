@@ -18,7 +18,6 @@
 
 # ### Q1. Even or Odd
 
-if 
 
 # Take an integer input and print:
 
